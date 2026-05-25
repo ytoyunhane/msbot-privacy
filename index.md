@@ -7,35 +7,35 @@
 
 ## 🇬🇧 English
 
-### Privacy Statement
-MS Bot collects only the minimum data required for the extension to function (license validation). We make the following commitments:
+### Summary
+MS Bot **does not collect, store, or transmit any personally identifiable information** about its users.
 
+### What the Extension Does
+MS Bot runs entirely in your browser. It interacts only with `gladiatus.gameforge.com` and our license validation endpoint to confirm that a user-provided license key is valid.
+
+### Information Handled
+
+| Item | Nature | Where |
+|---|---|---|
+| License key | A random alphanumeric string you enter | Stored locally in your browser |
+| Gladiatus player number | A public in-game identifier (not your name, email, or address) | Sent to our license endpoint only when validating the key |
+
+No name, email, address, phone number, password, bank/card information, browsing history, location, contacts, or any other personally identifiable information is collected by the extension.
+
+### Our Commitments
 - ✅ Your data is **not sold** to third parties outside of approved use cases
 - ✅ Your data is **not used or transferred** for purposes unrelated to the extension's core functionality
 - ✅ Your data is **not used or transferred** to determine creditworthiness or for lending purposes
 
-### What We Collect (Minimum Required)
+### Purchase & License Delivery
+License purchases are handled by **Gumroad**, which also delivers the license key to your email as part of its standard order receipt. Gumroad operates independently of this extension. Please review Gumroad's own privacy policy: https://gumroad.com/privacy
 
-| Data | Why | Where |
-|---|---|---|
-| License key (you enter) | To verify you have a valid license | Stored locally in your browser |
-| Gladiatus Player ID | To prevent license sharing across accounts | Sent to our license server |
-| IP address | Security logs only | Server log, deleted after 30 days |
-
-### What We Do NOT Collect
-- Gladiatus username or password
-- Bank/card information
-- Browsing history outside Gladiatus
-- Tracking cookies or analytics
-- Any personally identifiable information beyond the above
-
-### Email & Purchase Data
-When you purchase a license, **Gumroad** collects your email and payment details to process the purchase. **Brevo** delivers your license key by email. We do not control these services — please review their privacy policies:
-- Gumroad: https://gumroad.com/privacy
-- Brevo: https://www.brevo.com/legal/privacypolicy/
+The extension does not access your email address or purchase details at any time.
 
 ### Your Rights
-You may request data access, correction, or deletion by emailing **supportmsbot@gmail.com**.
+You may contact **supportmsbot@gmail.com** at any time to:
+- Ask which data, if any, is associated with your license key
+- Request deletion of that record
 
 ### Children
 Not intended for users under 13.
@@ -47,35 +47,35 @@ MS Bot is **not affiliated with, endorsed by, or sponsored by** Gameforge or Gla
 
 ## 🇹🇷 Türkçe
 
-### Gizlilik Beyanı
-MS Bot, eklentinin çalışması için yalnızca **gerekli minimum veriyi** toplar (lisans doğrulama). Aşağıdaki taahhütleri veriyoruz:
+### Özet
+MS Bot, kullanıcıları hakkında **herhangi bir kişisel kimlik bilgisi toplamaz, saklamaz veya iletmez**.
 
+### Eklenti Ne Yapar
+MS Bot tamamen tarayıcınızda çalışır. Yalnızca `gladiatus.gameforge.com` ile ve kullanıcının girdiği lisans anahtarının geçerliliğini doğrulamak için kendi lisans doğrulama adresimizle iletişim kurar.
+
+### İşlenen Bilgiler
+
+| Öğe | Niteliği | Nerede |
+|---|---|---|
+| Lisans anahtarı | Sizin girdiğiniz rastgele alfanümerik dizi | Tarayıcınızda yerel olarak saklanır |
+| Gladiatus oyuncu numarası | Halka açık oyun-içi tanımlayıcı (isim, email veya adres değildir) | Yalnızca anahtarı doğrularken lisans adresimize gönderilir |
+
+Eklenti tarafından isim, email, adres, telefon, şifre, banka/kart bilgisi, tarama geçmişi, konum, rehber veya başka bir kişisel kimlik bilgisi **toplanmaz**.
+
+### Taahhütlerimiz
 - ✅ Verileriniz, onaylanan kullanım alanları dışında üçüncü taraflara **satılmaz**
 - ✅ Verileriniz, eklentinin temel işleviyle **alakasız amaçlar** için kullanılmaz veya aktarılmaz
 - ✅ Verileriniz, kredibilitenin belirlenmesi veya **borç verme** amaçlarıyla kullanılmaz veya aktarılmaz
 
-### Topladığımız Veriler (Minimum)
+### Satın Alma & Lisans Teslimi
+Lisans satın alma işlemleri **Gumroad** tarafından yürütülür. Lisans anahtarınız da Gumroad'un standart sipariş onayı içinde size email olarak iletilir. Gumroad bu eklentiden bağımsız çalışır. Gumroad'un kendi gizlilik politikasını inceleyiniz: https://gumroad.com/privacy
 
-| Veri | Neden | Nerede |
-|---|---|---|
-| Lisans anahtarı (sizin girdiğiniz) | Geçerli lisansa sahip olduğunuzu doğrulamak | Tarayıcınızda yerel |
-| Gladiatus Oyuncu ID | Lisansın hesaplar arası paylaşımını engellemek | Lisans sunucumuza gönderilir |
-| IP adresi | Sadece güvenlik logları | Sunucu logu, 30 gün sonra silinir |
-
-### Toplamadığımız Veriler
-- Gladiatus kullanıcı adı veya şifresi
-- Banka/kart bilgisi
-- Gladiatus dışındaki tarama geçmişiniz
-- İzleme çerezleri veya analytics
-- Yukarıdakiler dışında kişisel kimlik bilgisi
-
-### Email & Satın Alma Verileri
-Lisans satın aldığınızda **Gumroad** email ve ödeme bilgilerinizi işler. **Brevo** lisans anahtarınızı email ile teslim eder. Bu hizmetleri kontrol etmiyoruz — kendi gizlilik politikalarını inceleyiniz:
-- Gumroad: https://gumroad.com/privacy
-- Brevo: https://www.brevo.com/legal/privacypolicy/
+Eklenti hiçbir zaman email adresinize veya satın alma bilgilerinize erişmez.
 
 ### Haklarınız
-**supportmsbot@gmail.com** adresine yazarak verilerinize erişim, düzeltme veya silme talep edebilirsiniz.
+**supportmsbot@gmail.com** adresine yazarak istediğiniz zaman:
+- Lisans anahtarınızla ilişkilendirilmiş bir veri varsa öğrenebilirsiniz
+- Bu kaydın silinmesini talep edebilirsiniz
 
 ### Çocuklar
 13 yaş altı kullanıcılar için tasarlanmamıştır.
