@@ -37,9 +37,6 @@ You may contact **supportmsbot@gmail.com** at any time to:
 - Ask which data, if any, is associated with your license key
 - Request deletion of that record
 
-### Children
-Not intended for users under 13.
-
 ### Affiliation Disclaimer
 MS Bot is **not affiliated with, endorsed by, or sponsored by** Gameforge or Gladiatus.
 
@@ -76,9 +73,6 @@ Eklenti hiçbir zaman email adresinize veya satın alma bilgilerinize erişmez.
 **supportmsbot@gmail.com** adresine yazarak istediğiniz zaman:
 - Lisans anahtarınızla ilişkilendirilmiş bir veri varsa öğrenebilirsiniz
 - Bu kaydın silinmesini talep edebilirsiniz
-
-### Çocuklar
-13 yaş altı kullanıcılar için tasarlanmamıştır.
 
 ### Bağlantı Reddi
 MS Bot, Gameforge veya Gladiatus ile **bağlantılı, onaylanmış veya sponsorlu değildir**.
