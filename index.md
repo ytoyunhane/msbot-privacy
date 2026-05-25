@@ -7,112 +7,78 @@
 
 ## 🇬🇧 English
 
-### Overview
-MS Bot ("the extension") is a Chrome browser extension that automates gameplay tasks for the browser game *Gladiatus*. This privacy policy explains what data is collected, why, and how it is used.
+### Privacy Statement
+MS Bot collects only the minimum data required for the extension to function (license validation). We make the following commitments:
 
-### Data We Collect
+- ✅ Your data is **not sold** to third parties outside of approved use cases
+- ✅ Your data is **not used or transferred** for purposes unrelated to the extension's core functionality
+- ✅ Your data is **not used or transferred** to determine creditworthiness or for lending purposes
 
-| Data | Purpose | Storage |
+### What We Collect (Minimum Required)
+
+| Data | Why | Where |
 |---|---|---|
-| **License key** (entered by you) | Authentication | Locally in your browser (`localStorage`) |
-| **Gladiatus Player ID** | Bind license to one game account; prevent key sharing | Sent to our server + stored locally |
-| **IP address** | Abuse prevention, security logs | Logged on our license server for 30 days |
-| **Email address & name** | Delivering your license key after purchase | Stored by Gumroad and Brevo (see third parties) |
+| License key (you enter) | To verify you have a valid license | Stored locally in your browser |
+| Gladiatus Player ID | To prevent license sharing across accounts | Sent to our license server |
+| IP address | Security logs only | Server log, deleted after 30 days |
 
-### Data We Do NOT Collect
-- Your Gladiatus username or password
-- Your bank/card information (handled by Gumroad)
-- Browsing history outside of Gladiatus pages
-- Tracking cookies or analytics fingerprints
-- Personal identifiers beyond what is listed above
+### What We Do NOT Collect
+- Gladiatus username or password
+- Bank/card information
+- Browsing history outside Gladiatus
+- Tracking cookies or analytics
+- Any personally identifiable information beyond the above
 
-### How Data Is Used
-- **License key + Player ID**: Sent to our license server (`msbotcom-production.up.railway.app`) to validate that your purchase is valid for your account.
-- **IP address**: Logged for security; we may block abusive IPs.
-- **Email & name**: Used solely to send your license key after purchase. We do not send marketing emails.
-
-### Third Parties
-- **Gumroad** ([gumroad.com/privacy](https://gumroad.com/privacy)) — payment processing
-- **Brevo** ([brevo.com/legal/privacypolicy](https://www.brevo.com/legal/privacypolicy/)) — email delivery
-- **Railway** ([railway.com/legal/privacy](https://railway.com/legal/privacy)) — server hosting
-
-We do **not** sell your data. We do **not** share data with advertisers.
-
-### Data Retention
-- License records: kept for the duration of your license + 1 year
-- IP logs: 30 days
-- Email/name: until you request deletion
+### Email & Purchase Data
+When you purchase a license, **Gumroad** collects your email and payment details to process the purchase. **Brevo** delivers your license key by email. We do not control these services — please review their privacy policies:
+- Gumroad: https://gumroad.com/privacy
+- Brevo: https://www.brevo.com/legal/privacypolicy/
 
 ### Your Rights
-You may request:
-- Access to data we hold about you
-- Deletion of your account and associated data
-- Correction of inaccurate data
-
-Email **supportmsbot@gmail.com** with your license key to make a request.
+You may request data access, correction, or deletion by emailing **supportmsbot@gmail.com**.
 
 ### Children
-This extension is not intended for users under 13.
-
-### Changes to This Policy
-We will update the "Last updated" date when this policy changes. Continued use of the extension constitutes acceptance.
+Not intended for users under 13.
 
 ### Affiliation Disclaimer
-MS Bot is **not affiliated with, endorsed by, or sponsored by** Gameforge or Gladiatus. Use at your own risk.
+MS Bot is **not affiliated with, endorsed by, or sponsored by** Gameforge or Gladiatus.
 
 ---
 
 ## 🇹🇷 Türkçe
 
-### Genel Bakış
-MS Bot ("eklenti"), tarayıcı tabanlı *Gladiatus* oyunundaki görevleri otomatikleştiren bir Chrome eklentisidir. Bu gizlilik politikası hangi verilerin toplandığını, neden ve nasıl kullanıldığını açıklar.
+### Gizlilik Beyanı
+MS Bot, eklentinin çalışması için yalnızca **gerekli minimum veriyi** toplar (lisans doğrulama). Aşağıdaki taahhütleri veriyoruz:
 
-### Toplanan Veriler
+- ✅ Verileriniz, onaylanan kullanım alanları dışında üçüncü taraflara **satılmaz**
+- ✅ Verileriniz, eklentinin temel işleviyle **alakasız amaçlar** için kullanılmaz veya aktarılmaz
+- ✅ Verileriniz, kredibilitenin belirlenmesi veya **borç verme** amaçlarıyla kullanılmaz veya aktarılmaz
 
-| Veri | Amaç | Depolama |
+### Topladığımız Veriler (Minimum)
+
+| Veri | Neden | Nerede |
 |---|---|---|
-| **Lisans anahtarı** (sizin girdiğiniz) | Kimlik doğrulama | Tarayıcınızda yerel (`localStorage`) |
-| **Gladiatus Oyuncu ID** | Lisansı tek oyun hesabına bağlamak | Sunucumuza gönderilir + yerel depolanır |
-| **IP adresi** | Kötüye kullanım önleme, güvenlik logları | Sunucumuzda 30 gün tutulur |
-| **Email & ad** | Satın alım sonrası lisans anahtarı iletmek | Gumroad ve Brevo'da saklanır |
+| Lisans anahtarı (sizin girdiğiniz) | Geçerli lisansa sahip olduğunuzu doğrulamak | Tarayıcınızda yerel |
+| Gladiatus Oyuncu ID | Lisansın hesaplar arası paylaşımını engellemek | Lisans sunucumuza gönderilir |
+| IP adresi | Sadece güvenlik logları | Sunucu logu, 30 gün sonra silinir |
 
 ### Toplamadığımız Veriler
-- Gladiatus kullanıcı adı veya şifreniz
-- Banka/kart bilgileri (Gumroad işler)
+- Gladiatus kullanıcı adı veya şifresi
+- Banka/kart bilgisi
 - Gladiatus dışındaki tarama geçmişiniz
 - İzleme çerezleri veya analytics
-- Yukarıda listelenenler dışında kişisel bilgi
+- Yukarıdakiler dışında kişisel kimlik bilgisi
 
-### Veriler Nasıl Kullanılır
-- **Lisans + Oyuncu ID**: Satın alımınızın hesabınız için geçerli olduğunu doğrulamak amacıyla lisans sunucumuza (`msbotcom-production.up.railway.app`) gönderilir.
-- **IP adresi**: Güvenlik için loglanır; kötüye kullanan IP'leri engelleyebiliriz.
-- **Email & ad**: Sadece satın alım sonrası lisans anahtarı göndermek için kullanılır. Pazarlama maili göndermiyoruz.
-
-### Üçüncü Taraflar
-- **Gumroad** — ödeme işleme
-- **Brevo** — email teslimi
-- **Railway** — sunucu barındırma
-
-Verilerinizi **satmıyoruz**. Reklam verenlerle **paylaşmıyoruz**.
-
-### Veri Saklama Süresi
-- Lisans kayıtları: lisans süresi + 1 yıl
-- IP logları: 30 gün
-- Email/ad: silme talebine kadar
+### Email & Satın Alma Verileri
+Lisans satın aldığınızda **Gumroad** email ve ödeme bilgilerinizi işler. **Brevo** lisans anahtarınızı email ile teslim eder. Bu hizmetleri kontrol etmiyoruz — kendi gizlilik politikalarını inceleyiniz:
+- Gumroad: https://gumroad.com/privacy
+- Brevo: https://www.brevo.com/legal/privacypolicy/
 
 ### Haklarınız
-Şunları talep edebilirsiniz:
-- Hakkınızda tutulan verilere erişim
-- Hesabınızın ve verilerin silinmesi
-- Yanlış verilerin düzeltilmesi
-
-Talep için lisans anahtarınızla **supportmsbot@gmail.com** adresine yazın.
+**supportmsbot@gmail.com** adresine yazarak verilerinize erişim, düzeltme veya silme talep edebilirsiniz.
 
 ### Çocuklar
-Bu eklenti 13 yaş altı için tasarlanmamıştır.
-
-### Politika Değişiklikleri
-Politika değiştiğinde "Son güncelleme" tarihi güncellenir. Kullanıma devam etmek kabul anlamına gelir.
+13 yaş altı kullanıcılar için tasarlanmamıştır.
 
 ### Bağlantı Reddi
-MS Bot, Gameforge veya Gladiatus ile **bağlantılı, onaylanmış veya sponsorlu değildir**. Kullanım kendi sorumluluğunuzdadır.
+MS Bot, Gameforge veya Gladiatus ile **bağlantılı, onaylanmış veya sponsorlu değildir**.
